@@ -83,7 +83,7 @@ in
     #! EDIT THESE VALUES
     hostname = "asus-nixos"; # Change to your preferred hostname
     timezone = "Europe/Paris"; # Change to your timezone
-    locale = "en_EN.UTF-8"; # Change to your preferred locale
+    locale = "en_US.UTF-8"; # Change to your preferred locale
 
     /*
       Optionally edit the below values, or leave to use hydenix defaults
